@@ -1,0 +1,25 @@
+{
+  "name": "hello world",
+  "content": {
+    "components": {
+      "main": {
+        "id": "main",
+        "props": {
+          "styles": {
+
+          } 
+        },
+        "children": ["header"]
+      },
+      "header": {
+        "id": "header",
+        "props": {
+          "styles": {
+            
+          }
+        },
+        "children": []
+      }
+    }
+  }
+}

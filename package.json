@@ -20,5 +20,8 @@
   "devDependencies": {
     "typescript": "^4.9.5",
     "vite": "^4.1.3"
+  },
+  "dependencies": {
+    "@low_code/components": "workspace:^1.0.0"
   }
 }
